@@ -2,5 +2,6 @@
 
 -- select * from address
 
-use sql_store;
-select * from customers;
+-- use sql_store;
+select 
+2 + 4 , "result"
