@@ -4,4 +4,9 @@
 
 -- use sql_store;
 select 
-2 + 4 , "result"
+* 
+from
+ sql_store.customers
+-- where 
+-- customer_id = 1  ;
+order by birth ; 
